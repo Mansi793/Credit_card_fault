@@ -1,2 +1,3 @@
 # Credit_card_fraud
-This repo will help fraud detection 
+You can download the dataset from this link
+If the link is not working please go to this link and login to kaggle to download the dataset.
